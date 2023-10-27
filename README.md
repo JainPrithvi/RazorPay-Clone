@@ -1,0 +1,2 @@
+# RazorPay Clone
+ Created a clone of the RazorPay website using HTML, CSS, and the Tailwind Framework. The project will consist of approximately 2000 lines of code (LOC) and will be designed to be fully responsive, ensuring a seamless user experience across various devices and screen sizes. The website will incorporate captivating animations and media queries to enhance user engagement and visual appeal.
